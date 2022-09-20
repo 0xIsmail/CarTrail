@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSDemo</string>
+    <string name="off">Off</string>
+    <string name="title_activity_waypoint_map">waypointMap</string>
+</resources>
